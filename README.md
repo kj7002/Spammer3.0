@@ -19,4 +19,4 @@ Spam text or repeat text easily using this tool.
 
 Here is a side by side view of all 3 versions... Trust me v3 is better!
 
-<img width="638" alt="Screenshot 2023-03-15 161636edited" src="https://user-images.githubusercontent.com/105666935/230277759-324cde44-8ca3-43c8-b1f0-8ca1f4e0758e.png">
+<img width="438" alt="Screenshot 2023-03-15 161636edited" src="https://user-images.githubusercontent.com/105666935/230277759-324cde44-8ca3-43c8-b1f0-8ca1f4e0758e.png">
